@@ -1,46 +1,73 @@
-# My CV
+# Mohd Zeeshan
 
-## 🌟 Profile
-An enthusiastic professional with a passion for technology and innovation.
+🌐 **Website:** [yourwebsite.com](http://yourwebsite.com)  
+📧 **Email:** mohdzeeshan@example.com  
+📞 **Phone:** +1234567890  
+📍 **Location:** City, Country  
 
----
+---  
 
-## 🛠️ Skills
-- **Programming Languages:** Python, JavaScript, Java
-- **Frameworks:** React, Node.js
-- **Tools:** Git, Docker, Jenkins
+## Professional Summary  
+Dynamic and detail-oriented professional with exceptional skills in [Your Field/Industry]. Proven track record of enhancing productivity and achieving results through strategic planning and efficient execution. Excels in [specific skills/technologies].
 
----
+---  
 
-## 🎓 Education
-**Bachelor of Science in Computer Science**  
-University of Technology, 2016 - 2020  
+## Work Experience  
+### [Job Title]  
+**Company Name**  
+*Location* | *Month Year - Present*  
+- Key responsibility 1  
+- Key responsibility 2  
+- Key achievement 3  
 
----
+### [Previous Job Title]  
+**Previous Company Name**  
+*Location* | *Month Year - Month Year*  
+- Key responsibility 1  
+- Key responsibility 2  
+- Key achievement 3  
 
-## 💼 Experience  
-### Software Engineer  
-ABC Corp, 2021 - Present  
-- Developed scalable web applications using React.
-- Collaborated with cross-functional teams to enhance product features.
+---  
 
-### Intern  
-XYZ Ltd, 2020 - 2021  
-- Assisted in the development of internal tools using Python.
+## Education  
+### [Degree] — [Field of Study]  
+**University Name**  
+*Year of Graduation*  
 
----
+---  
 
-## 🌐 Projects  
-- **Project A:** A web application that enables users to...  
-- **Project B:** A mobile app developed to...
+## Skills  
+### Technical Skills  
+- Skill 1  
+- Skill 2  
+- Skill 3  
 
----
+### Soft Skills  
+- Skill 1  
+- Skill 2  
+- Skill 3  
 
-## 📫 Contact  
-- Email: zexxbt@example.com  
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/zexxbt)  
+---  
 
----
+## Certifications  
+- Certification Name | Issuing Organization  
+- Certification Name | Issuing Organization  
 
-## 📅 Availability  
-- Open to new opportunities.
+---  
+
+## Projects  
+### [Project Name]  
+**Description:** A brief description of the project showcasing your role and the technologies used.  
+### [Another Project Name]  
+**Description:** A brief description of the project showcasing your role and the technologies used.  
+
+---  
+
+## Languages  
+- Language 1  
+- Language 2  
+
+---  
+
+## Contact Information  
+Feel free to reach out via email or phone.
